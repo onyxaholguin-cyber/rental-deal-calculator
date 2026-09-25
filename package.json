@@ -1,0 +1,8 @@
+{
+  "name": "rental-deal-calculator",
+  "version": "1.0.0",
+  "description": "Rental property deal math (cash flow, NOI, cap rate, cash-on-cash, DSCR, GRM, break-even occupancy) as a tiny dependency-free JS module plus a browser calculator.",
+  "main": "deal-calc.js",
+  "scripts": { "test": "node --test test/" },
+  "license": "MIT"
+}
