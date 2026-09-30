@@ -39,6 +39,6 @@ Repairs and CapEx are a % of scheduled rent; management is a % of collected (pos
 
 Walkthrough of the metrics with a worked example: [Cap rate vs cash-on-cash vs DSCR](https://onyxaholguin-cyber.github.io/sheet-and-flow/tutorials/cap-rate-cash-on-cash-dscr/).
 
-Need to compare 3 deals side by side with a 10-year projection, IRR and sensitivity tables? That's the [Rental Deal Analyzer spreadsheet](https://onyxaholguin.gumroad.com/l/rental-deal-analyzer) (Excel + Google Sheets, paid). More free tools and tutorials at [Sheet & Flow](https://onyxaholguin-cyber.github.io/sheet-and-flow/).
+Need to compare 3 deals side by side with a 10-year projection, IRR and sensitivity tables? That's the [Rental Deal Analyzer spreadsheet](https://sheetandflow.gumroad.com/l/rental-deal-analyzer) (Excel + Google Sheets, paid). More free tools and tutorials at [Sheet & Flow](https://onyxaholguin-cyber.github.io/sheet-and-flow/).
 
 Built with AI assistance. For education only, not financial advice. MIT licensed.
