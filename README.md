@@ -1,5 +1,7 @@
 # Rental Deal Calculator (free, open source)
 
+[![try it: online](https://img.shields.io/badge/try%20it-online-0d9488)](https://onyxaholguin-cyber.github.io/rental-deal-calculator/) [![license: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE) [![dependencies: 0](https://img.shields.io/badge/dependencies-0-brightgreen)](deal-calc.js) [![by: Sheet & Flow](https://img.shields.io/badge/by-Sheet%20%26%20Flow-0f766e)](https://onyxaholguin-cyber.github.io/sheet-and-flow/)
+
 A dependency-free rental property calculator: **monthly cash flow, NOI, cap rate, cash-on-cash return, DSCR, gross rent multiplier, the 1% rule, break-even occupancy and expense ratio**.
 
 - **Use it in your browser:** https://onyxaholguin-cyber.github.io/rental-deal-calculator/ (nothing you type leaves your browser)
